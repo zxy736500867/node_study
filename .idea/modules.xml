@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/build_development_environment/build_development_environment.iml" filepath="$PROJECT_DIR$/build_development_environment/build_development_environment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Build_Vue/build_vue.iml" filepath="$PROJECT_DIR$/Build_Vue/build_vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_settings/routing_settings.iml" filepath="$PROJECT_DIR$/routing_settings/routing_settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student_information/student_information.iml" filepath="$PROJECT_DIR$/student_information/student_information.iml" />
+    </modules>
+  </component>
+</project>

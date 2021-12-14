@@ -1,0 +1,4 @@
+# Project exclude paths
+/Build_Development_Environment/node_modules/
+/routing_settings/node_modules/
+/student_information/node_modules/
